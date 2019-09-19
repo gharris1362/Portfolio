@@ -1,0 +1,24 @@
+body {
+    background-image: linear-gradient(#654ea3,#eaafc8);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Baloo', cursive;
+}
+
+.opener {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70%
+
+}
+.name {
+    padding-right: 1%;
+    font-size: 50px
+}
+.web {
+    display: flex;
+    justify-content: center;
+    font-size: 200%;
+}
